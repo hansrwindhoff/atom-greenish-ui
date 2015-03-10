@@ -1,10 +1,10 @@
 {
   "name": "darkgreenish-ui",
   "theme": "ui",
-  "version": "0.48.0",
-  "description": "Default dark theme for interface components",
+  "version": "0.1.0",
+  "description": "Dark green theme",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/hansrwindhoff/atom-greenish-ui",
   "engines": {
     "atom": ">0.40.0"
   }
